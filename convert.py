@@ -32,7 +32,8 @@ def message_handler(message):
 @bot.message_handler(content_types=content_type_media)
 def image_handler(message):
 
-   try:
+
+    try:
 
         fileID = message.video.file_id
         print(fileID)
