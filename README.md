@@ -30,8 +30,6 @@ pip install pyTelegramBotAPI==3.7.6
 python convert.py
 ```
 
-# Image 
-![loooooooooooo](https://user-images.githubusercontent.com/30151596/121790441-0c0d9500-cbe8-11eb-8583-882dce9e293c.jpg)
 
 # Contact me 
 Areeg94Fahad@gmail.com
